@@ -2,8 +2,7 @@ import React from 'react';
 import bannerimg from "../Assets/peps-banner.jpg";
 import "./Banner.css"
 
-export default function 
-() {
+export default function Banner() {
   return (
     <>
         <div className='banner-wrapper'>

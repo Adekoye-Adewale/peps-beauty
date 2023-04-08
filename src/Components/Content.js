@@ -12,17 +12,17 @@ export default function Content() {
                 <p>6yrs+ of restoring #skinfidence & promoting healthy skin with safe nature-derived products that truly work.</p>
                 <div className='btn'>
                     <div>
-                        <a href='https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F2349132243598&e=AT29FoEirjsZlAZLECXYYV-ugg_grZuVnBF0ujCYp1GxbQWT2_3AGQ2ieu9yJMWxG75YX-2BHDsCL9p9mkT8LVUmJmqH6m03ZeQMaQ' target='_blank'>
+                        <a href='https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F2349132243598&e=AT29FoEirjsZlAZLECXYYV-ugg_grZuVnBF0ujCYp1GxbQWT2_3AGQ2ieu9yJMWxG75YX-2BHDsCL9p9mkT8LVUmJmqH6m03ZeQMaQ' target='_blank' rel="noreferrer">
                             Book Free Consultation
                         </a>
                     </div>
                     <div>
-                        <a href='https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F2349132243598&e=AT29FoEirjsZlAZLECXYYV-ugg_grZuVnBF0ujCYp1GxbQWT2_3AGQ2ieu9yJMWxG75YX-2BHDsCL9p9mkT8LVUmJmqH6m03ZeQMaQ' target='_blank'>
+                        <a href='https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F2349132243598&e=AT29FoEirjsZlAZLECXYYV-ugg_grZuVnBF0ujCYp1GxbQWT2_3AGQ2ieu9yJMWxG75YX-2BHDsCL9p9mkT8LVUmJmqH6m03ZeQMaQ' target='_blank' rel="noreferrer">
                             Buy Products Now
                         </a>
                     </div>
                     <div>
-                        <a href='https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F2349132243598&e=AT29FoEirjsZlAZLECXYYV-ugg_grZuVnBF0ujCYp1GxbQWT2_3AGQ2ieu9yJMWxG75YX-2BHDsCL9p9mkT8LVUmJmqH6m03ZeQMaQ' target='_blank'>
+                        <a href='https://l.instagram.com/?u=https%3A%2F%2Fwa.me%2F2349132243598&e=AT29FoEirjsZlAZLECXYYV-ugg_grZuVnBF0ujCYp1GxbQWT2_3AGQ2ieu9yJMWxG75YX-2BHDsCL9p9mkT8LVUmJmqH6m03ZeQMaQ' target='_blank' rel="noreferrer">
                             Message Us On WhatsApp Now
                         </a>
                     </div>
